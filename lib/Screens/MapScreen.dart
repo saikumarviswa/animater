@@ -107,6 +107,8 @@ class MapScree extends State<MapScreen> {
     listMarkerIds.add(markerId3);
 
 
+
+
     Marker marker1=Marker(markerId: markerId1,
         position: LatLng(17.4435, 78.3772),
         icon: BitmapDescriptor.defaultMarkerWithHue(
