@@ -143,6 +143,7 @@ class MapScree extends State<MapScreen> {
       markers[markerId1]=marker1;
       markers[markerId2]=marker2;
       markers[markerId3]=marker3;
+
     });
   }
 
