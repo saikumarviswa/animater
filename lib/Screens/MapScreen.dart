@@ -146,6 +146,8 @@ class MapScree extends State<MapScreen> {
     });
   }
 
+
+
   movetoBoston() {
     _controller.animateCamera(CameraUpdate.newCameraPosition(
       CameraPosition(target: LatLng(16.517474,81.725362), zoom: 14.0, bearing: 45.0, tilt: 45.0),
